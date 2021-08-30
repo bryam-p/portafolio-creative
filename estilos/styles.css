@@ -118,6 +118,10 @@ header .container__lupa svg:hover {
     height: 75vh;
 }
 
+.bg__main .btn__viewwork:hover {
+    background-color: rgb(235, 235, 235);
+}
+
 .layout__filter {
     width: 100%;
     height: 75vh;
