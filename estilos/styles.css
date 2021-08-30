@@ -227,6 +227,12 @@ header .container__lupa svg:hover {
     max-width: 350px;
     width: 100%;
     padding: 10px;
+    cursor: pointer;
+}
+
+.grilla .row .column .container__img:hover {
+    transition: 0.7s all ease-in;
+    transform: scale(1.1);
 }
 
 .grilla .row .column .container__img img {
